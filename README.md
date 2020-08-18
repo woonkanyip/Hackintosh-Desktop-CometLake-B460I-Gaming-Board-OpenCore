@@ -1,6 +1,6 @@
 # Hackintosh-Desktop-CometLake-B460I-Gaming-Board-OpenCore
 
-1.1 Computer Hardware
+# 1.1 Computer Hardware
 
       MainBoard:  ASUS B460I Gaming
       CPU:        i5 10400
